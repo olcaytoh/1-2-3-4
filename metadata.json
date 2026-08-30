@@ -1,6 +1,8 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Remix 2. Sınıf Eğlenceli Matematik Serüveni HTML",
+  "description": "2. sınıf öğrencileri için interaktif 2 oyunculu yarışmalı matematik oyunu, çalışma kağıdı hazırlama ve karanlık/aydınlık tema desteği.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
